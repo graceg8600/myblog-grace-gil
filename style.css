@@ -1,0 +1,23 @@
+body {
+    background-image:url("hi.png");
+    color:black
+}
+div {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    border:10px dotted peachpuff ;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2 {
+    border:10px dotted peachpuff;
+}
+*{
+    color:royalblue;
+}
+.myblog{
+    font-family:Arial, Helvetica, sans-serif;
+}
